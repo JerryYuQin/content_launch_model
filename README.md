@@ -1,4 +1,1 @@
-# content_launch_model
-# content_launch_model
-# content_launch_model
-# content_launch_model
+Source: [Bluprint "Learn it, Don't Make It"](https://www.mybluprint.com/)
